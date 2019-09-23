@@ -19,7 +19,7 @@ def action(token, cmds):
 
 
 def p0_simulator():
-    user = 'adsfasdf'
+    user = 'token'
     problem = 2
     count = 1
     max_people = 8
