@@ -1,5 +1,6 @@
 # kakao-2019-elevator_problem
 카카오 2019 오프라인 코딩테스트(엘리베이터 문제)
+https://github.com/kakao-recruit/2019-blind-2nd-elevator
 
 ## 1. 엘리베이터 구현
 - 엘리베이터가 위, 아래로 움직이면서 승객을 태웁니다.
